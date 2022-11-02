@@ -6,11 +6,9 @@
   <h3 align="center">Bem vindo(a) 🧑‍💻
 </div>
 <hr>
-
 <ul>
   <li>Técnico em Informática</li>
-  <li>Bacharel em Sistemas de Informação ( 9/9 -  Loading... )
- </li>
+  <li>Bacharel em Sistemas de Informação ( 9/9 -  Loading... )</li>
   <li>Dev Full-Stack PHP | Java </li>
 </ul>
 <div align="center">
