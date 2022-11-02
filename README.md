@@ -10,7 +10,7 @@
 </div>
 <ul>
   <li>Técnico em Informática</li>
-  <li>Bacharel em Sistemas de Informação ( 9/9 ) Loading... ![LoadLoadingGIF](https://user-images.githubusercontent.com/37184880/199381325-d1295cb1-3a45-43d3-91c8-eb48eb15d6f0.gif)
+  <li>Bacharel em Sistemas de Informação ( 9/9 -  Loading... )
  </li>
   <li>Dev Full-Stack PHP | Java </li>
 </ul>
