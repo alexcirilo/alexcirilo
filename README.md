@@ -19,8 +19,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexcirilo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcirilo&layout=compact&langs_count=7&color=true&theme=tokyonight"/>
 </div>
-<br>
-
 <div align="center">
   <h1 align="center"> SKILLS </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40"/>
@@ -30,11 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40"/>
-  
-
-</div>
-  
-<br>
+ </div>
   <div align="center">
     <h1 align="center"> Estudando: </h1>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
