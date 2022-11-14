@@ -9,7 +9,7 @@
 <ul>
   <li>Técnico em Informática</li>
   <li>Bacharel em Sistemas de Informação ( 9/9 -  Loading... )</li>
-  <li>Dev Full-Stack PHP | Java </li>
+  <li>Dev Full-Stack Java | PHP </li>
 </ul>
 <div align="center">
 <a href="https://www.linkedin.com/in/alex-cirilo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
