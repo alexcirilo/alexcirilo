@@ -9,7 +9,7 @@
 <ul>
   <li>Técnico em Informática</li>
   <li>Bacharel em Sistemas de Informação ( 9/9 -  Loading... )</li>
-  <li>Dev Full-Stack Java | PHP </li>
+  <li>Dev Full-Stack Java  </li>
 </ul>
   
 <hr>
