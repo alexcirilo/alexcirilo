@@ -7,6 +7,7 @@
 </div>
 <hr>
 <ul>
+  <li>Pós-Graduando em Full Stack Java Developer (Loading...)</li>
   <li>Técnico em Informática</li>
   <li>Bacharel em Sistemas de Informação</li>
   <li>Developer Java  </li>
