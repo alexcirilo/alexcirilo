@@ -21,9 +21,6 @@
     <a href="https://www.instagram.com/_alexcarlos_05" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
-    <a href="https://profile.playstation.com/linklp_" target="_blank">
-      <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/>
-    </a>
   </img>
   </span>
   <span>
@@ -31,13 +28,13 @@
 </div>
   
 <hr>
-<h2 align="left">📊 Stats: </h2>
+<h2 align="left">📊 Estatísticas: </h2>
 <div align="left">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexcirilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexcirilo&layout=compact&langs_count=8&theme=radical"/>
 <div>	
 <div align="left">
-  <h2 align="left"> Skills and Technologies: </h2>
+  <h2 align="left"> Habilidades e Tecnologias: </h2>
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
